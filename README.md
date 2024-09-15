@@ -50,3 +50,11 @@ $ conda activate mini-rag
 ```bash
 $ pip install -r requirements.txt
 ```
+
+## Setup Enviornment
+
+- Make sure to setup the .env file, from .env.example file using the following bash code script:
+
+```bash
+$ cp .env.example .env
+```
